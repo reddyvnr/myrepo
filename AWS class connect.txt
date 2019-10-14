@@ -1,0 +1,15 @@
+
+Server name
+
+ec2-54-210-167-14.compute-1.amazonaws.com
+Passwrod file surieedu.pem
+
+Connetion string on putty :-
+ssh -i "surieedu.pem" ec2-user@ec2-54-210-167-14.compute-1.amazonaws.com
+password surieedu.ppk
+
+
+puttykeygen locatio :-
+
+C:\Users\ve838032\AppData\Local\WinSCP\PuTTY
+
